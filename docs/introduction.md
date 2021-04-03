@@ -1,4 +1,4 @@
-##= Introduction
+## Introduction
 
 This book is the primary reference of the Conan language, however it can also be used to learn the language.
 
