@@ -6,8 +6,6 @@ All variables in Conan are either objects or primitive data types. There are 11 
 | --- | --- | --- |
 | i32 | -149 | Signed 32-bit integer |
 | f32 | 23 | 32-bit decimal number |
-| f64 | -23 | 64-bit decimale number |
-| char| a | Character |
 
 ## Next chapter
 
