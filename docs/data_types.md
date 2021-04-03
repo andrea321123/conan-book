@@ -9,4 +9,4 @@ All variables in Conan are either objects or primitive data types. There are 11 
 
 ## Next chapter
 
-You can go to the [next chapter](data_types.md), or you can return to the [table of contents](index.md).
+You can go to the [next chapter](functions.md), or you can return to the [table of contents](index.md).
